@@ -6,7 +6,10 @@
 
 This project analyzes how surface chemistry and processing sequences affect wettability (water contact angle, WCA) of zirconia surfaces using XPS data and machine learning.
 
+## Example Result
 
+The relationship between phosphorus content (P 2p) and wettability shows a clear trend, with higher phosphorus content generally leading to increased hydrophobicity.
+![WCA Plot](plot.png)
 
 \## Dataset
 
